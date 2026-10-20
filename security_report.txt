@@ -1,0 +1,15 @@
+PYTHON LOG ANALYZER REPORT
+==========================
+
+Total log entries: 10
+Total failed login events: 6
+Alert threshold: 3
+
+FAILED LOGIN SUMMARY
+--------------------
+192.168.1.20: 5 failed attempts
+192.168.1.30: 1 failed attempts
+
+SECURITY ALERTS
+---------------
+ALERT: 192.168.1.20 has 5 failed login attempts.
